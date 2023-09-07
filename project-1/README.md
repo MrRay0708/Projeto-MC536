@@ -2,13 +2,49 @@
 
 ## Motivação e Contexto
 
+O intuito é obter um perfil nutricional de cada nação relacionando suas receitas, ingredientes e composições obtidos a partir das bases selecionadas. Assim, em uma análise maior e mais aprofundada, sendo possível conduzir maiores projetos, como por exemplo, um estudo sobre a saúde geral de cada país e os perfis de consumo.
+
+
 ## Bases de Dados
 
-título da base | link | breve descrição
+Título da base | Link | Breve descrição
 ----- | ----- | -----
-`<título da base>` | `<link para a página da base>` | `<breve descrição da base>`
+FoodDB | [link](https://www.foodb.ca/) | Uma base com diversos alimentos e suas composições tanto quimicas como com relação aos nutrientes encotrados em cada alimento
+CulinaryDB | [link](https://cosylab.iiitd.edu.in/culinarydb/) | Uma base com diversas receitas e seus ingredientes, relacionando elas com seus países/regiões de origem 
+NHANES Select Mean Dietary Intake Estimates | [link](https://data.cdc.gov/NCHS/NHANES-Select-Mean-Dietary-Intake-Estimates/8wmh-yzz9) | Uma base com diversas pesquisas feitas ao longo do tempo sobre o consudo de determinados nutrientes em diversas faixas etárias e etnias
+The Nutritional Content of Food | [link](https://www.kaggle.com/datasets/thedevastator/the-nutritional-content-of-food-a-comprehensive) | Uma outra base com diversos ingredientes e seus perfis nutricionais detalhados com as unidades de medida
 
 ## Perguntas de Pesquisa/Análise
+
+#### Pergunta/Análise 1
+> * Quais os nutrientes mais consumidos em cada país?
+>   
+>   * A ideia aqui é fazer uma relação entre as receitas de cada país e os nutrientes que mais aparecem nessas receitas, entendendo um pouco do perfil nutricional de cada pais
+
+> * Quais os ingredientes que compõe determinadas receitas?
+>   
+>   * Mapear o relacionamento entre receitas e ingredientes
+
+> * Quais os ingredientes mais consumidos? E em cada país?
+>   
+>   * A partir das receitas identificar os ingredientes mais típicos de cada país e de maneira geral
+
+> * Em qual período de tempo determinado nutriente foi menos consumido?
+>   
+>   * Aqui a ideia é endenteder, com base em um período de anos, qual foi o nutriente menos consumido, talvez também tentando fazer uma relação com a faixa etária
+
+> * Quais são as receitas que não são adequadas para pessoas que não podem consumir glúten? 
+>   
+>   * A ideia é, com base nos valores nutricionais dos ingredientes das receitas, entender quais receitas não seriam recomendadas para pessoas que não podem consumir glúten
+
+
+### Perguntas/Análise Propostas mas Não Implementadas
+
+#### Pergunta/Análise 1
+> * Dado determinado período de anos, quais foram os alimententos menos consumidos?
+>   
+>   * Com base no período de anos, conseguimos analisar quais os nutrientes menos consulmidos e comn essa informação ver quais alimentos/receitas tem esses nutrientes, entendendo quais são os alimentos que possivelmente foram menos consulmidos dentro desse período de anos.
+
 
 ## Modelo Conceitual
 
