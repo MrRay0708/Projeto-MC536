@@ -1,4 +1,4 @@
-# Projeto <Título do Projeto>
+# Projeto 
 # Equipe Shrek
 
 - Gabriel Augusto Bertolino Gomes	- 248287	
