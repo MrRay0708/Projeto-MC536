@@ -49,4 +49,6 @@ The Nutritional Content of Food | [link](https://www.kaggle.com/datasets/thedeva
 
 ## Modelo Conceitual
 
+<img src="images/er_projeto_pt1.png" width="500px" height="auto">
+
 ## Modelos Lógicos
