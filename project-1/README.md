@@ -52,3 +52,31 @@ The Nutritional Content of Food | [link](https://www.kaggle.com/datasets/thedeva
 <img src="images/er_projeto_pt1.png" width="500px" height="auto">
 
 ## Modelos Lógicos
+
+~~~
+Categoria(_id_, nome)
+
+Regiao(_id_, nome)
+
+Receita(_id_, titulo, fonte, instrucoes, regiao_id)
+  regiao_id chave estrangeira -> Regiao(id)
+
+Ingrediente(_id_, nome, categoria_id)
+  categoria_id chave estrangeira -> Categoria(id)
+
+ReceitaIngrediente(_receita_id_, _ingrediente_id_, qtde)
+  _receita_id_ chave estrangeira -> Receita(id)
+  _ingrediente_id_ chave estrangeira -> Ingrediente(id)
+
+Nutriente(_id_, nome)
+
+IngredienteNutriente(_ingrediente_id_, _nutriente_id_, valor, min, max)
+  _ingrediente_id_ chave estrangeira -> Ingrediente(id)
+  _nutriente_id_ chave estrangeira -> Nutriente(id)
+
+PesquisaNutricional(_id_, ano, sexo, idade_inicio, idade_fim)
+
+NutrientePesquisa(_id_, nutriente_id, pesquisa_id, consumo_medio_diario)
+  pesquisa_id chave estrangeira -> PesquisaNutricional(id)
+  nutriente_id chave estrangeira -> Nutriente(id)
+~~~
