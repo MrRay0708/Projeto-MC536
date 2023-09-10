@@ -10,7 +10,8 @@ O intuito é obter um perfil nutricional de cada nação relacionando suas recei
 Título da base | Link | Breve descrição
 ----- | ----- | -----
 FoodDB | [link](https://www.foodb.ca/) | Uma base com diversos alimentos e suas composições tanto quimicas como com relação aos nutrientes encotrados em cada alimento
-CulinaryDB | [link](https://cosylab.iiitd.edu.in/culinarydb/) | Uma base com diversas receitas e seus ingredientes, relacionando elas com seus países/regiões de origem 
+TheMealDB | [link](https://www.themealdb.com/) | Uma base com diversas receitas e seus ingredientes, relacionando elas com seus países/regiões de origem
+CulinaryDB | [link](https://cosylab.iiitd.edu.in/culinarydb/) | Uma outra base com receitas, ingredientes e suas regiões, vamos usar para complementar e comparar com a base de cima
 NHANES Select Mean Dietary Intake Estimates | [link](https://data.cdc.gov/NCHS/NHANES-Select-Mean-Dietary-Intake-Estimates/8wmh-yzz9) | Uma base com diversas pesquisas feitas ao longo do tempo sobre o consudo de determinados nutrientes em diversas faixas etárias e etnias
 The Nutritional Content of Food | [link](https://www.kaggle.com/datasets/thedevastator/the-nutritional-content-of-food-a-comprehensive) | Uma outra base com diversos ingredientes e seus perfis nutricionais detalhados com as unidades de medida
 
