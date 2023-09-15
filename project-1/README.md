@@ -1,5 +1,7 @@
 ## Slides da Apresentação
 
+[Link](https://github.com/MrRay0708/Projeto-MC536/blob/main/project-1/Apresenta%C3%A7%C3%A3o.pdf) da apresentação em pdf
+
 ## Motivação e Contexto
 
 O intuito é obter um perfil nutricional de cada nação relacionando suas receitas, ingredientes e composições obtidos a partir das bases selecionadas. Assim, em uma análise maior e mais aprofundada, sendo possível conduzir maiores projetos, como por exemplo, um estudo sobre a saúde geral de cada país e os perfis de consumo.
