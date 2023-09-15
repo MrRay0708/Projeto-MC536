@@ -20,33 +20,31 @@ The Nutritional Content of Food | [link](https://www.kaggle.com/datasets/thedeva
 ## Perguntas de Pesquisa/Análise
 
 #### Pergunta/Análise 1
-> * Quais os nutrientes mais consumidos em cada país?
->   
->   * A ideia aqui é fazer uma relação entre as receitas de cada país e os nutrientes que mais aparecem nessas receitas, entendendo um pouco do perfil nutricional de cada pais
+* Quais os nutrientes mais consumidos em cada país?
+  * A ideia aqui é fazer uma relação entre as receitas de cada país e os nutrientes que mais aparecem nessas receitas, entendendo um pouco do perfil nutricional de cada pais
 
-> * Quais os ingredientes que compõe determinadas receitas?
->   
->   * Mapear o relacionamento entre receitas e ingredientes
+#### Pergunta/Análise 2
+* Quais os ingredientes que compõe determinadas receitas?
+  * Mapear o relacionamento entre receitas e ingredientes
 
-> * Quais os ingredientes mais consumidos? E em cada país?
->   
->   * A partir das receitas identificar os ingredientes mais típicos de cada país e de maneira geral
+#### Pergunta/Análise 3
+* Quais os ingredientes mais consumidos? E em cada país?
+  * A partir das receitas identificar os ingredientes mais típicos de cada país e de maneira geral
 
-> * Em qual período de tempo determinado nutriente foi menos consumido?
->   
->   * Aqui a ideia é endenteder, com base em um período de anos, qual foi o nutriente menos consumido, talvez também tentando fazer uma relação com a faixa etária
+#### Pergunta/Análise 4
+* Em qual período de tempo determinado nutriente foi menos consumido?
+  * Aqui a ideia é endenteder, com base em um período de anos, qual foi o nutriente menos consumido, talvez também tentando fazer uma relação com a faixa etária
 
-> * Quais são as receitas que não são adequadas para pessoas que não podem consumir glúten? 
->   
->   * A ideia é, com base nos valores nutricionais dos ingredientes das receitas, entender quais receitas não seriam recomendadas para pessoas que não podem consumir glúten
+#### Pergunta/Análise 5
+* Quais são as receitas que não são adequadas para pessoas que não podem consumir glúten? 
+  * A ideia é, com base nos valores nutricionais dos ingredientes das receitas, entender quais receitas não seriam recomendadas para pessoas que não podem consumir glúten
 
 
 ### Perguntas/Análise Propostas mas Não Implementadas
 
 #### Pergunta/Análise 1
-> * Dado determinado período de anos, quais foram os alimententos menos consumidos?
->   
->   * Com base no período de anos, conseguimos analisar quais os nutrientes menos consulmidos e comn essa informação ver quais alimentos/receitas tem esses nutrientes, entendendo quais são os alimentos que possivelmente foram menos consulmidos dentro desse período de anos.
+* Dado determinado período de anos, quais foram os alimententos menos consumidos?
+  * Com base no período de anos, conseguimos analisar quais os nutrientes menos consulmidos e comn essa informação ver quais alimentos/receitas tem esses nutrientes, entendendo quais são os alimentos que possivelmente foram menos consulmidos dentro desse período de anos.
 
 
 ## Modelo Conceitual
