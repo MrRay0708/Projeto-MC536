@@ -1,3 +1,5 @@
+[Link Binder](https://mybinder.org/v2/gh/MrRay0708/Projeto-MC536/main)
+
 ## Modelo lógico revisado
 
 ```
