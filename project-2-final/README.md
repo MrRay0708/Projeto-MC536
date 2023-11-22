@@ -31,7 +31,7 @@ IngredienteComponenteQuimico(_ingrediente_id_, _componenteQuimico_id_)
   _componenteQuimico_id_ chave estrangeira -> ComponenteQuimico(id)
 ```
 
-![Modelo](https://github.com/MrRay0708/Projeto-MC536/blob/main/Projeto%20-%20Parte%202/Projeto%20-%20NovoER.png)
+![Modelo](https://github.com/MrRay0708/Projeto-MC536/blob/main/project-2-final/assets/mer.png)
 
 ## Perguntas/análises revisadas
 
