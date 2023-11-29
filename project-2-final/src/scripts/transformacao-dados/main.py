@@ -34,10 +34,10 @@ class Food:
       
 class Ingredient:
     def __init__(self, id_ingredient, str_ingredient, str_description, str_type):
-        self.id_ingredient = id_ingredient
-        self.str_ingredient = str_ingredient
-        self.str_description = str_description
-        self.str_type = str_type
+      self.id_ingredient = id_ingredient
+      self.str_ingredient = str_ingredient
+      self.str_description = str_description
+      self.str_type = str_type
 
 
 def distancia_palavras(a, b):
@@ -80,14 +80,14 @@ def ler_csv(nome_arquivo, from_class):
 
   return lista_objetos
 
-def escrever_csv(lista_ingredientes, nome_arquivo):
+def escrever_csv_comb(list, nome_arquivo):
   with open(nome_arquivo, 'w', newline='', encoding='utf-8') as arquivo_csv:
     escritor_csv = csv.writer(arquivo_csv)
 
-    escritor_csv.writerow(['ID', 'Nome', 'Descrição', 'Tipo'])
+    escritor_csv.writerow(['id_themeal', 'id_foodb', 'public_id_food'])
 
-    for ingrediente in lista_ingredientes:
-        escritor_csv.writerow([ingrediente.id_ingredient, ingrediente.str_ingredient, ingrediente.str_description, ingrediente.str_type])
+    for item in list:
+        escritor_csv.writerow([item['id_ingredient'], item['id_food'], item['public_id_food']])
 
 def compara_ingredient_plant(ingredient, food):
     # Verifica se o name da planta está contido no str_ingredient do ingrediente
@@ -160,8 +160,7 @@ def encontrar_combinacoes(lista_ingredientes, lista_foods):
       
       if food_minin == None: continue
       print(ingrediente.id_ingredient, ingrediente.str_ingredient.lower(), '-', food_minin.id, food_minin.name)
-      combinacoes.append({'id_ingredient': ingrediente.id_ingredient, 'id_food': food_minin.id})
-                
+      combinacoes.append({'id_ingredient': ingrediente.id_ingredient, 'id_food': food_minin.id, 'public_id_food': food_minin.public_id})
 
     return combinacoes
 
@@ -169,6 +168,8 @@ def main():
   food_list = ler_csv("../../../data/raw/Food.csv", Food)
   ingredient_list = ler_csv("../../../data/external/ingredientes.csv", Ingredient)
   
-  print(len(encontrar_combinacoes(ingredient_list, food_list)))
+  comb = encontrar_combinacoes(ingredient_list, food_list)
+
+  escrever_csv_comb(comb, '../../../data/interim/combinacao_food_meal.csv')
   
 main()
