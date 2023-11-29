@@ -1,0 +1,592 @@
+id,name,description,group_id
+1,Chicken,"The chicken is a type of domesticated fowl, a subspecies of the red junglefowl (Gallus gallus). It is one of the most common and widespread domestic animals, with a total population of more than 19 billion as of 2011. There are more chickens in the world than any other bird or domesticated fowl. Humans keep chickens primarily as a source of food (consuming both their meat and eggs) and, less commonly, as pets. Originally raised for cockfighting or for special ceremonies, chickens were not kept for food until the Hellenistic period (4th–2nd centuries BC).
+
+Genetic studies have pointed to multiple maternal origins in South Asia, Southeast Asia, and East Asia, but with the clade found in the Americas, Europe, the Middle East and Africa originating in the Indian subcontinent. From ancient India, the domesticated chicken spread to Lydia in western Asia Minor, and to Greece by the 5th century BC. Fowl had been known in Egypt since the mid-15th century BC, with the ""bird that gives birth every day"" having come to Egypt from the land between Syria and Shinar, Babylonia, according to the annals of Thutmose III.",14
+2,Salmon,"Salmon is the common name for several species of ray-finned fish in the family Salmonidae. Other fish in the same family include trout, char, grayling and whitefish. Salmon are native to tributaries of the North Atlantic (genus Salmo) and Pacific Ocean (genus Oncorhynchus). Many species of salmon have been introduced into non-native environments such as the Great Lakes of North America and Patagonia in South America. Salmon are intensively farmed in many parts of the world.
+
+Typically, salmon are anadromous: they hatch in fresh water, migrate to the ocean, then return to fresh water to reproduce. However, populations of several species are restricted to fresh water through their lives. Folklore has it that the fish return to the exact spot where they hatched to spawn. Tracking studies have shown this to be mostly true. A portion of a returning salmon run may stray and spawn in different freshwater systems; the percent of straying depends on the species of salmon. Homing behavior has been shown to depend on olfactory memory. Salmon date back to the Neogene.",13
+3,Beef,"Beef is the culinary name for meat from cattle, particularly skeletal muscle. Humans have been eating beef since prehistoric times. Beef is a source of high-quality protein and nutrients.
+
+Most beef skeletal muscle meat can be used as is by merely cutting into certain parts, such as roasts, short ribs or steak (filet mignon, sirloin steak, rump steak, rib steak, rib eye steak, hanger steak, etc.), while other cuts are processed (corned beef or beef jerky). Trimmings, on the other hand, are usually mixed with meat from older, leaner (therefore tougher) cattle, are ground, minced or used in sausages. The blood is used in some varieties called blood sausage. Other parts that are eaten include other muscles and offal, such as the oxtail, liver, tongue, tripe from the reticulum or rumen, glands (particularly the pancreas and thymus, referred to as sweetbread), the heart, the brain (although forbidden where there is a danger of bovine spongiform encephalopathy, BSE, commonly referred to as mad cow disease), the kidneys, and the tender testicles of the bull (known in the United States as calf fries, prairie oysters, or Rocky Mountain oysters). Some intestines are cooked and eaten as is, but are more often cleaned and used as natural sausage casings. The bones are used for making beef stock.",2
+4,Pork,"Pork is the culinary name for the flesh of a domestic pig (Sus scrofa domesticus). It is the most commonly consumed meat worldwide,[1] with evidence of pig husbandry dating back to 5000 BC.
+
+Pork is eaten both freshly cooked and preserved. Curing extends the shelf life of the pork products. Ham, smoked pork, gammon, bacon and sausage are examples of preserved pork. Charcuterie is the branch of cooking devoted to prepared meat products, many from pork.
+
+Pig is the most popular meat in the Eastern and non-Muslim parts of Southeastern Asia (Indochina, Philippines, Singapore, East Timor) and is also very common in the Western world, especially in Central Europe. It is highly prized in Asian cuisines for its fat content and pleasant texture. Consumption of pork is forbidden by Jewish, Muslim and Rastafarian dietary law, for religious reasons, with several suggested possible causes.",12
+5,Avocado,"The avocado, a tree with probable origin in South Central Mexico, is classified as a member of the flowering plant family Lauraceae. The fruit of the plant, also called an avocado (or avocado pear or alligator pear), is botanically a large berry containing a single large seed.
+
+Avocados are commercially valuable and are cultivated in tropical and Mediterranean climates throughout the world. They have a green-skinned, fleshy body that may be pear-shaped, egg-shaped, or spherical. Commercially, they ripen after harvesting. Avocado trees are partially self-pollinating, and are often propagated through grafting to maintain predictable fruit quality and quantity. In 2017, Mexico produced 34% of the world supply of avocados.",1
+9,Apple Cider Vinegar,"Apple cider vinegar, or cider vinegar, is a vinegar made from fermented apple juice, and used in salad dressings, marinades, vinaigrettes, food preservatives, and chutneys. It is made by crushing apples, then squeezing out the juice. Bacteria and yeast are added to the liquid to start the alcoholic fermentation process, which converts the sugars to alcohol. In a second fermentation step, the alcohol is converted into vinegar by acetic acid-forming bacteria (Acetobacter species). Acetic acid and malic acid combine to give vinegar its sour taste. Apple cider vinegar has no medicinal or nutritional value. There is no high-quality clinical evidence that regular consumption of apple cider vinegar helps to maintain or lose body weight, or is effective to manage blood glucose and lipid levels.",12
+10,Asparagus,"Asparagus, or garden asparagus, folk name sparrow grass, scientific name Asparagus officinalis, is a perennial flowering plant species in the genus Asparagus. Its young shoots are used as a spring vegetable.
+
+It was once classified in the lily family, like the related Allium species, onions and garlic. However, genetic research places lilies, Allium, and asparagus in three separate families—the Liliaceae, Amaryllidaceae, and Asparagaceae, respectively—with the Amaryllidaceae and Asparagaceae being grouped together in the order Asparagales. Sources differ as to the native range of Asparagus officinalis, but generally include most of Europe and western temperate Asia. It is widely cultivated as a vegetable crop.",1
+13,Baby Plum Tomatoes,"The tomato is the edible, often red, berry of the plant Solanum lycopersicum, commonly known as a tomato plant. The species originated in western South America and Central America. The Nahuatl (Aztec language) word tomatl gave rise to the Spanish word tomate, from which the English word tomato derived.[3][4] Its domestication and use as a cultivated food may have originated with the indigenous peoples of Mexico. The Aztecs used tomatoes in their cooking at the time of the Spanish conquest of the Aztec Empire, and after the Spanish encountered the tomato for the first time after their contact with the Aztecs, they brought the plant to Europe. From there, the tomato was introduced to other parts of the European-colonized world during the 16th century.",3
+15,Baking Powder,"Baking powder is a dry chemical leavening agent, a mixture of a carbonate or bicarbonate and a weak acid. The base and acid are prevented from reacting prematurely by the inclusion of a buffer such as cornstarch. Baking powder is used to increase the volume and lighten the texture of baked goods. It works by releasing carbon dioxide gas into a batter or dough through an acid-base reaction, causing bubbles in the wet mixture to expand and thus leavening the mixture. The first single-acting baking powder was developed by Birmingham based food manufacturer Alfred Bird in England in 1843. The first double-acting baking powder was developed by Eben Norton Horsford in America in the 1860s.",1
+16,Balsamic Vinegar,"Balsamic vinegar (Italian: aceto balsamico), occasionally shortened to balsamic, is a very dark, concentrated, and intensely flavoured vinegar originating in Italy, made wholly or partially from grape must. Grape must is freshly crushed grape juice with all the skins, seeds and stems.",18
+17,Basil,"Basil, also called great basil, is a culinary herb of the family Lamiaceae (mints).
+
+Basil is native to tropical regions from central Africa to Southeast Asia. It is a tender plant, and is used in cuisines worldwide. Depending on the species and cultivar, the leaves may taste somewhat like anise, with a strong, pungent, often sweet smell.",1
+18,Basil Leaves,"Basil, also called great basil, is a culinary herb of the family Lamiaceae (mints).
+",1
+19,Basmati Rice,"Basmati is a variety of long, slender-grained aromatic rice which is traditionally from the Indian subcontinent. As of 2018-19, India exported to over 90% of the overseas basmati rice market, while Pakistan accounted for the remainder, according to the Indian state-run Agricultural and Processed Food Products Export Development Authority  and the Pakistan government-run Economic Survey of Pakistan. Many countries use domestically grown basmati rice crops; however, basmati is geographically exclusive to select districts of India, Pakistan, Nepal and Bangladesh.",5
+20,Bay Leaf,"The bay leaf is an aromatic leaf commonly used in cooking. It can be used whole, or as dried and ground.",1
+21,Bay Leaves,"The bay leaf is an aromatic leaf commonly used in cooking. It can be used whole, or as dried and ground.",1
+23,Beef Brisket,"Beef is the culinary name for meat from cattle, particularly skeletal muscle. Humans have been eating beef since prehistoric times. Beef is a source of high-quality protein and nutrients.
+
+Most beef skeletal muscle meat can be used as is by merely cutting into certain parts, such as roasts, short ribs or steak (filet mignon, sirloin steak, rump steak, rib steak, rib eye steak, hanger steak, etc.), while other cuts are processed (corned beef or beef jerky). Trimmings, on the other hand, are usually mixed with meat from older, leaner (therefore tougher) cattle, are ground, minced or used in sausages. The blood is used in some varieties called blood sausage. Other parts that are eaten include other muscles and offal, such as the oxtail, liver, tongue, tripe from the reticulum or rumen, glands (particularly the pancreas and thymus, referred to as sweetbread), the heart, the brain (although forbidden where there is a danger of bovine spongiform encephalopathy, BSE, commonly referred to as mad cow disease), the kidneys, and the tender testicles of the bull (known in the United States as calf fries, prairie oysters, or Rocky Mountain oysters). Some intestines are cooked and eaten as is, but are more often cleaned and used as natural sausage casings. The bones are used for making beef stock.",2
+24,Beef Fillet,"Beef is the culinary name for meat from cattle, particularly skeletal muscle. Humans have been eating beef since prehistoric times. Beef is a source of high-quality protein and nutrients.
+
+Most beef skeletal muscle meat can be used as is by merely cutting into certain parts, such as roasts, short ribs or steak (filet mignon, sirloin steak, rump steak, rib steak, rib eye steak, hanger steak, etc.), while other cuts are processed (corned beef or beef jerky). Trimmings, on the other hand, are usually mixed with meat from older, leaner (therefore tougher) cattle, are ground, minced or used in sausages. The blood is used in some varieties called blood sausage. Other parts that are eaten include other muscles and offal, such as the oxtail, liver, tongue, tripe from the reticulum or rumen, glands (particularly the pancreas and thymus, referred to as sweetbread), the heart, the brain (although forbidden where there is a danger of bovine spongiform encephalopathy, BSE, commonly referred to as mad cow disease), the kidneys, and the tender testicles of the bull (known in the United States as calf fries, prairie oysters, or Rocky Mountain oysters). Some intestines are cooked and eaten as is, but are more often cleaned and used as natural sausage casings. The bones are used for making beef stock.",2
+25,Beef Gravy,"Beef is the culinary name for meat from cattle, particularly skeletal muscle. Humans have been eating beef since prehistoric times. Beef is a source of high-quality protein and nutrients.
+
+Most beef skeletal muscle meat can be used as is by merely cutting into certain parts, such as roasts, short ribs or steak (filet mignon, sirloin steak, rump steak, rib steak, rib eye steak, hanger steak, etc.), while other cuts are processed (corned beef or beef jerky). Trimmings, on the other hand, are usually mixed with meat from older, leaner (therefore tougher) cattle, are ground, minced or used in sausages. The blood is used in some varieties called blood sausage. Other parts that are eaten include other muscles and offal, such as the oxtail, liver, tongue, tripe from the reticulum or rumen, glands (particularly the pancreas and thymus, referred to as sweetbread), the heart, the brain (although forbidden where there is a danger of bovine spongiform encephalopathy, BSE, commonly referred to as mad cow disease), the kidneys, and the tender testicles of the bull (known in the United States as calf fries, prairie oysters, or Rocky Mountain oysters). Some intestines are cooked and eaten as is, but are more often cleaned and used as natural sausage casings. The bones are used for making beef stock.",2
+26,Beef Stock,"Beef is the culinary name for meat from cattle, particularly skeletal muscle. Humans have been eating beef since prehistoric times. Beef is a source of high-quality protein and nutrients.
+
+Most beef skeletal muscle meat can be used as is by merely cutting into certain parts, such as roasts, short ribs or steak (filet mignon, sirloin steak, rump steak, rib steak, rib eye steak, hanger steak, etc.), while other cuts are processed (corned beef or beef jerky). Trimmings, on the other hand, are usually mixed with meat from older, leaner (therefore tougher) cattle, are ground, minced or used in sausages. The blood is used in some varieties called blood sausage. Other parts that are eaten include other muscles and offal, such as the oxtail, liver, tongue, tripe from the reticulum or rumen, glands (particularly the pancreas and thymus, referred to as sweetbread), the heart, the brain (although forbidden where there is a danger of bovine spongiform encephalopathy, BSE, commonly referred to as mad cow disease), the kidneys, and the tender testicles of the bull (known in the United States as calf fries, prairie oysters, or Rocky Mountain oysters). Some intestines are cooked and eaten as is, but are more often cleaned and used as natural sausage casings. The bones are used for making beef stock.",2
+27,Bicarbonate Of Soda,"Sodium bicarbonate, commonly known as baking soda, is a chemical compound with the formula NaHCO3. It is a salt composed of a sodium cation (Na+) and a bicarbonate anion (HCO3−). Sodium bicarbonate is a white solid that is crystalline, but often appears as a fine powder. It has a slightly salty, alkaline taste resembling that of washing soda (sodium carbonate). The natural mineral form is nahcolite. It is a component of the mineral natron and is found dissolved in many mineral springs.",2
+29,Black Pepper,"Black pepper (Piper nigrum) is a flowering vine in the family Piperaceae, cultivated for its fruit, known as a peppercorn, which is usually dried and used as a spice and seasoning. When fresh and fully mature, it is about 5 mm (0.20 in) in diameter and dark red, and contains a single seed, like all drupes. Peppercorns and the ground pepper derived from them may be described simply as pepper, or more precisely as black pepper (cooked and dried unripe fruit), green pepper (dried unripe fruit), or white pepper (ripe fruit seeds).
+
+Black pepper is native to present-day Kerala in Southwestern India, and is extensively cultivated there and elsewhere in tropical regions. Vietnam is the world's largest producer and exporter of pepper, producing 34% of the world's crop, as of 2013.",2
+30,Black Treacle,"Molasses (American English) or black treacle (British English) is a viscous product resulting from refining sugarcane or sugar beets into sugar. Molasses varies by amount of sugar, method of extraction, and age of plant. Sugarcane molasses is primarily used for sweetening and flavoring foods in the United States, Canada, and elsewhere. Molasses is a defining component of fine commercial brown sugar.
+
+Sweet sorghum syrup may be colloquially called ""sorghum molasses"" in the southern United States.[2][3] Similar products include honey, maple syrup, corn syrup, and invert syrup. Most of these alternative syrups have milder flavors.",3
+31,Borlotti Beans,,19
+32,Bowtie Pasta,,19
+33,Bramley Apples,,3
+35,Bread,,5
+37,Broccoli,,2
+38,Brown Lentils,,6
+39,Brown Rice,,5
+40,Brown Sugar,,18
+41,Butter,,11
+46,Cannellini Beans,,6
+47,Cardamom,,1
+49,Carrots,,2
+50,Cashew Nuts,,4
+51,Cashews,,4
+52,Caster Sugar,,18
+53,Cayenne Pepper,,2
+54,Celeriac,,2
+55,Celery,,1
+56,Celery Salt,,1
+59,Cheddar Cheese,,15
+60,Cheese,,15
+61,Cheese Curds,,15
+62,Cherry Tomatoes,,3
+63,Chestnut Mushroom,,4
+65,Chicken Breast,,14
+66,Chicken Breasts,,14
+67,Chicken Legs,,14
+68,Chicken Stock,,14
+70,Chicken Thighs,,14
+71,Chickpeas,,6
+72,Chili Powder,,1
+73,Chilled Butter,,11
+74,Chilli,,19
+75,Chilli Powder,,1
+76,Chinese Broccoli,,2
+77,Chocolate Chips,,11
+78,Chopped Onion,,2
+79,Chopped Parsley,,1
+82,Christmas Pudding,,17
+84,Cinnamon,,1
+85,Cinnamon Stick,,1
+87,Cloves,,1
+88,Coco Sugar,,11
+89,Cocoa,,11
+90,Coconut Cream,,17
+91,Coconut Milk,,15
+92,Colby Jack Cheese,,15
+93,Cold Water,,2
+94,Condensed Milk,,15
+95,Coriander,,1
+96,Coriander Leaves,,1
+97,Coriander Seeds,,1
+98,Corn Tortillas,,1
+100,Cream,,17
+102,Cubed Feta Cheese,,15
+103,Cucumber,,13
+104,Cumin,,1
+105,Cumin Seeds,,1
+106,Curry Powder,,1
+107,Dark Brown Sugar,,18
+108,Dark Soft Brown Sugar,,12
+109,Dark Soy Sauce,,10
+110,Demerara Sugar,,18
+112,Digestive Biscuits,,5
+113,Dill,,1
+114,Doner Meat,,18
+115,Double Cream,,17
+116,Dried Oregano,,1
+117,Dry White Wine,,12
+119,Egg Plants,,16
+120,Egg Rolls,,19
+121,Egg White,,5
+122,Egg Yolks,,16
+123,Eggs,,16
+124,Enchilada Sauce,,10
+125,English Mustard,,2
+126,Extra Virgin Olive Oil,,1
+130,Fennel Bulb,,1
+131,Fennel Seeds,,1
+132,Fenugreek,,1
+133,Feta,,15
+134,Fish Sauce,,13
+135,Flaked Almonds,,4
+136,Flax Eggs,,16
+137,Flour,,5
+138,Flour Tortilla,,5
+139,Floury Potatoes,,5
+140,"Free-range Egg, Beaten",,16
+141,"Free-range Eggs, Beaten",,16
+142,French Lentils,,5
+143,Fresh Basil,,1
+144,Fresh Thyme,,1
+145,Freshly Chopped Parsley,,1
+147,Full Fat Yogurt,,23
+148,Garam Masala,,6
+149,Garlic,,1
+150,Garlic Clove,,1
+151,Garlic Powder,,1
+152,Garlic Sauce,,10
+154,Ginger,,1
+155,Ginger Cordial,,1
+156,Ginger Garlic Paste,,1
+157,Ginger Paste,,1
+158,Golden Syrup,,18
+159,Gouda Cheese,,15
+160,Granulated Sugar,,18
+161,Grape Tomatoes,,3
+162,Greek Yogurt,,10
+163,Green Beans,,6
+165,Green Chilli,,3
+166,Green Olives,,3
+167,Green Red Lentils,,6
+168,Green Salsa,,3
+169,Ground Almonds,,4
+170,Ground Cumin,,1
+171,Ground Ginger,,1
+173,Hard Taco Shells,,25
+175,Harissa Spice,,1
+176,Heavy Cream,,17
+177,Honey,,17
+178,Horseradish,,2
+179,Hot Beef Stock,,19
+181,Ice Cream,,18
+182,Italian Fennel Sausages,,2
+183,Italian Seasoning,,2
+184,Jalapeno,,2
+185,Jasmine Rice,,5
+186,Jerusalem Artichokes,,2
+187,Kale,,2
+189,King Prawns,,13
+190,Kosher Salt,,18
+191,Lamb,,14
+192,Lamb Loin Chops,,14
+193,Lamb Mince,,14
+194,Lasagne Sheets,,19
+195,Lean Minced Beef,,2
+196,Leek,,2
+197,Lemon,,13
+198,Lemon Juice,,12
+199,Lemon Zest,,13
+200,Lemons,,1
+201,Lettuce,,2
+202,Lime,,3
+203,Little Gem Lettuce,,2
+204,Macaroni,,19
+205,Mackerel,,13
+206,Madras Paste,,5
+207,Marjoram,,1
+208,Massaman Curry Paste,,1
+209,Medjool Dates,,3
+210,Meringue Nests,,17
+211,Milk,,15
+212,Minced Garlic,,1
+213,Miniature Marshmallows,,17
+214,Mint,,1
+215,Monterey Jack Cheese,,15
+216,Mozzarella Balls,,15
+217,Muscovado Sugar,,18
+218,Mushrooms,,2
+219,Mustard,,2
+220,Mustard Powder,,2
+221,Mustard Seeds,,2
+222,Nutmeg,,1
+223,Oil,,18
+224,Olive Oil,,1
+226,Onion Salt,,2
+227,Onions,,2
+228,Orange,,3
+229,Orange Zest,,3
+230,Oregano,,1
+231,Oyster Sauce,,13
+233,Parma Ham,,2
+234,Parmesan,,15
+235,Parmesan Cheese,,15
+237,Parsley,,1
+238,Peanut Butter,,11
+239,Peanut Oil,,1
+240,Peanuts,,4
+241,Peas,,6
+244,Pepper,,2
+245,Pine Nuts,,4
+246,Pitted Black Olives,,3
+247,Plain Chocolate,,11
+248,Plain Flour,,15
+249,Plum Tomatoes,,3
+252,Potato Starch,,2
+255,Puff Pastry,,17
+256,Raspberry Jam,,3
+257,Raw King Prawns,,13
+258,Red Chile Flakes,,2
+259,Red Chilli,,2
+261,Red Chilli Powder,,1
+263,Red Onions,,2
+264,Red Pepper,,2
+265,Red Pepper Flakes,,2
+266,Red Wine,,12
+267,Refried Beans,,19
+268,Rice,,5
+269,Rice Noodles,,5
+270,Rice Stick Noodles,,5
+271,Rice Vermicelli,,5
+273,Rocket,,2
+274,Rolled Oats,,5
+276,Saffron,,1
+277,Sage,,1
+278,Sake,,12
+281,Salt,,18
+282,Salted Butter,,15
+283,Sausages,,19
+284,Sea Salt,,13
+286,Self-raising Flour,,5
+287,Semi-skimmed Milk,,15
+288,Sesame Seed,,1
+289,Shallots,,2
+290,Shredded Mexican Cheese,,15
+291,Shredded Monterey Jack Cheese,,15
+295,Sour Cream,,15
+296,Soy Sauce,,10
+297,Soya Milk,,15
+299,Spinach,,2
+301,Spring Onions,,2
+302,Squash,,8
+303,Stir-fry Vegetables,,2
+305,Sugar,,18
+307,Sunflower Oil,,1
+308,Tamarind Ball,,3
+309,Tamarind Paste,,3
+310,Thai Fish Sauce,,13
+311,Thai Green Curry Paste,,3
+312,Thai Red Curry Paste,,2
+313,Thyme,,1
+315,Tomato Ketchup,,2
+316,Tomato Puree,,2
+318,Toor Dal,,13
+319,Tuna,,13
+320,Turmeric,,1
+321,Turmeric Powder,,1
+322,Turnips,,1
+323,Vanilla,,1
+324,Vanilla Extract,,1
+325,Veal,,13
+326,Vegan Butter,,11
+327,Vegetable Oil,,2
+328,Vegetable Stock,,2
+329,Vegetable Stock Cube,,2
+330,Vinaigrette Dressing,,18
+331,Vine Leaves,,1
+332,Vinegar,,18
+333,Water,,2
+334,White Chocolate Chips,,11
+335,White Fish,,13
+336,White Fish Fillets,,13
+337,White Vinegar,,5
+338,White Wine,,12
+339,Whole Milk,,15
+340,Whole Wheat,,5
+341,Wholegrain Bread,,5
+342,Worcestershire Sauce,,10
+343,Yogurt,,10
+344,Zucchini,,8
+346,Cream Cheese,,15
+347,Icing Sugar,,17
+348,Toffee Popcorn,,9
+350,Caramel Sauce,,10
+353,Clotted Cream,,17
+354,Corn Flour,,1
+355,Mussels,,13
+357,Monkfish,,13
+358,Vermicelli Pasta,,19
+359,Baby Squid,,21
+360,Squid,,13
+361,Fish Stock,,13
+363,Black Olives,,3
+364,Onion,,2
+365,Tomato,,2
+366,Duck,,14
+367,Duck Legs,,14
+368,Chicken Stock Cube,,14
+369,Pappardelle Pasta,,19
+370,Paccheri Pasta,,19
+371,Linguine Pasta,,19
+373,Sugar Snap Peas,,18
+374,Crusty Bread,,5
+376,Clams,,13
+378,Rapeseed Oil,,1
+379,Stilton Cheese,,15
+380,Lamb Leg,,14
+381,Lamb Shoulder,,14
+382,Apricot,,3
+383,Butternut Squash,,8
+384,Couscous,,19
+387,Minced Beef,,2
+388,Turkey Mince,,14
+389,Barbeque Sauce,,10
+391,Goose Fat,,14
+392,Duck Fat,,14
+393,Fennel,,1
+394,Red Wine Vinegar,,12
+395,Haricot Beans,,19
+396,Rosemary,,1
+397,Butter Beans,,11
+398,Pinto Beans,,19
+399,Tomato Sauce,,2
+402,Mozzarella,,15
+405,Dried Apricots,,15
+406,Capers,,1
+407,Banana,,3
+410,Walnuts,,4
+411,Pecan Nuts,,4
+412,Maple Syrup,,18
+413,Light Brown Soft Sugar,,12
+414,Dark Brown Soft Sugar,,12
+415,Dark Chocolate Chips,,11
+416,Milk Chocolate,,15
+417,Dark Chocolate,,11
+418,Pumpkin,,8
+419,Shortcrust Pastry,,17
+420,Peanut Cookies,,1
+421,Gelatine Leafs,,1
+422,Peanut Brittle,,1
+424,Yellow Pepper,,2
+425,Green Pepper,,2
+427,Tinned Tomatos,,2
+428,Chestnuts,,4
+429,Wild Mushrooms,,5
+430,Truffle Oil,,18
+432,Naan Bread,,5
+433,Lentils,,6
+434,Roasted Vegetables,,2
+435,Kidney Beans,,19
+436,Mixed Grain,,4
+438,Tortillas,,5
+440,Cabbage,,2
+441,Shiitake Mushrooms,,2
+443,Sesame Seed Oil,,1
+445,Vine Tomatoes,,4
+447,Swede,,2
+448,Ham,,2
+449,Oysters,,13
+451,Lard,,23
+452,Lamb Kidney,,14
+453,Beef Kidney,,2
+454,Haddock,,13
+455,Smoked Haddock,,13
+456,Brussels Sprouts,,2
+457,Raisins,,5
+458,Currants,,3
+459,Custard,,17
+460,Mixed Peel,,4
+461,Redcurrants,,3
+464,Braeburn Apples,,3
+465,Red Food Colouring,,20
+466,Pink Food Colouring,,20
+467,Blue Food Colouring,,20
+468,Yellow Food Colouring,,20
+469,Apricot Jam,,3
+470,Marzipan,,17
+471,Almonds,,4
+472,Black Pudding,,3
+473,Baked Beans,,19
+474,White Flour,,5
+476,Fruit Mix,,3
+477,Dried Fruit,,3
+478,Cherry,,3
+479,Glace Cherry,,3
+482,Oats,,5
+483,Egg,,16
+484,Beef Shin,,2
+486,Single Cream,,17
+487,Red Wine Jelly,,12
+488,Apples,,3
+489,Goats Cheese,,15
+491,Unsalted Butter,,11
+493,Tarragon Leaves,,1
+494,Chives,,1
+495,Pears,,3
+496,White Chocolate,,11
+497,Star Anise,,1
+499,Custard Powder,,1
+500,Desiccated Coconut,,1
+501,Frozen Peas,,17
+502,Minced Pork,,12
+503,Creamed Corn,,1
+505,Dijon Mustard,,2
+506,Tabasco Sauce,,10
+507,Canola Oil,,1
+508,Cod,,13
+509,Salt Cod,,13
+512,Ground Beef,,2
+513,Baby Aubergine,"Eggplant (Solanum melongena) or aubergine is a species of nightshade grown for its edible fruit. Eggplant is the common name in North America, Australia and New Zealand; in British English, it is aubergine, and in South Asia and South Africa, brinjal.
+
+The fruit is widely used in cooking. As a member of the genus Solanum, it is related to the tomato and the potato. It was originally domesticated from the wild nightshade species, the thorn or bitter apple, S. incanum, probably with two independent domestications, one in South Asia and one in East Asia.",21
+514,Paella Rice,"Paella[a] is a Valencian rice dish that has ancient roots but its modern form originated in the mid-19th century in the area around Albufera lagoon on the east coast of Spain, adjacent to the city of Valencia. Many non-Spaniards view paella as Spain's national dish, but most Spaniards consider it to be a regional Valencian dish. Valencians, in turn, regard paella as one of their identifying symbols.
+
+Types of paella include Valencian paella, vegetable paella (Spanish: paella de verduras), seafood paella (Spanish: paella de mariscos), and mixed paella (Spanish: paella mixta), among many others. Valencian paella is believed to be the original recipe and consists of white rice, green beans (bajoqueta and tavella), meat (chicken, duck and rabbit), white beans (garrofón), snails, and seasoning such as saffron and rosemary. Another very common but seasonal ingredient is artichokes. Seafood paella replaces meat with seafood and omits beans and green vegetables. Mixed paella is a free-style combination of meat from land animals, seafood, vegetables, and sometimes beans. Most paella chefs use bomba rice due to it being less likely to overcook, but Valencians tend to use a slightly stickier (and thus more susceptible to overcooking) variety known as Senia. All types of paellas use olive oil.",5
+517,Broad Beans,"Vicia faba, also known as the broad bean, fava bean, faba bean, field bean, bell bean, or tic bean, is a species of flowering plant in the pea and bean family Fabaceae. It is native to North Africa[dubious – discuss] southwest and south Asia, and extensively cultivated elsewhere.[citation needed] A variety Vicia faba var. equina Pers. – horse bean has been previously recognized.",6
+518,Red Snapper,"The northern red snapper (Lutjanus campechanus) is a species of snapper native to the western Atlantic Ocean including the Gulf of Mexico, where it inhabits environments associated with reefs. This species is commercially important and is also sought-after as a game fish.
+
+The northern red snapper's body is very similar in shape to other snappers, such as the mangrove snapper, mutton snapper, lane snapper, and dog snapper. All feature a sloped profile, medium-to-large scales, a spiny dorsal fin, and a laterally compressed body. Northern red snapper have short, sharp, needle-like teeth, but they lack the prominent upper canine teeth found on the mutton, dog, and mangrove snappers. This snapper reaches maturity at a length of about 39 cm (15 in). The common adult length is 60 cm (24 in), but may reach 100 cm (39 in). The maximum published weight is 38 kg (84 lb), and the oldest reported age is 100+ years. Coloration of the northern red snapper is light red, with more intense pigment on the back. It has 10 dorsal spines, 14 soft dorsal rays, three anal spines and eight to 9 anal soft rays. Juvenile fish (shorter than 30–35 cm) can also have a dark spot on their sides, below the anterior soft dorsal rays, which fades with age.",2
+519,Malt Vinegar,"Vinegar is a liquid consisting of about 5–20% acetic acid (CH3COOH), water, and other trace chemicals, which may include flavorings. The acetic acid is produced by the fermentation of ethanol by acetic acid bacteria. Vinegar is now mainly used as a cooking ingredient, or in pickling. As the most easily manufactured mild acid, it has historically had a great variety of industrial, medical, and domestic uses, some of which (such as its use as a general household cleaner) are still commonly practiced today.
+
+Commercial vinegar is produced either by a fast or a slow fermentation process. In general, slow methods are used in traditional vinegars where fermentation proceeds slowly over the course of a few months or up to a year. The longer fermentation period allows for the accumulation of a non-toxic slime composed of acetic acid bacteria. Fast methods add mother of vinegar (bacterial culture) to the source liquid before adding air to oxygenate and promote the fastest fermentation. In fast production processes, vinegar may be produced between 20 hours to three days.",18
+520,Rice Vinegar,"Rice vinegar is a vinegar made from fermented rice in China, Japan, Korea, and Vietnam.
+
+Chinese rice vinegars are stronger than Japanese ones, and range in colour from clear to various shades of red, brown and black and are therefore known as rice wine vinegar. Chinese and especially Japanese vinegars are less acidic than the distilled Western vinegars which, for that reason, are not appropriate substitutes for rice vinegars. The majority of the Asian rice vinegar types are also more mild and sweet than vinegars typically used in the Western world, with black vinegars as a notable exception. Chinese rice vinegars are made from huangjiu, a type of rice wine.",5
+521,Water Chestnut,"Eleocharis dulcis, the Chinese water chestnut or water chestnut, is a grass-like sedge native to Asia (China, Japan, India, Philippines, etc.), Australia, tropical Africa, and various islands of the Pacific and Indian Oceans. It is grown in many countries for its edible corms.
+
+The water chestnut is not a nut at all, but an aquatic vegetable that grows in marshes, under water, in the mud. It has stem-like, tubular green leaves that grow to about 1.5 m. The water caltrop, which also is referred to by the same name, is unrelated and often confused with the water chestnut.
+
+The small, rounded corms have a crisp, white flesh and may be eaten raw, slightly boiled, or grilled, and often are pickled or tinned. They are a popular ingredient in Chinese dishes. In China, they are most often eaten raw, sometimes sweetened. They also may be ground into a flour form used for making water chestnut cake, which is common as part of dim sum cuisine. They are unusual among vegetables for remaining crisp even after being cooked or canned, because their cell walls are cross-linked and strengthened by certain phenolic compounds, such as oligomers of ferulic acid. This property is shared by other vegetables that remain crisp in this manner, including the tiger nut and lotus root. The corms contain the antibiotic agent puchiin, which is stable to high temperature. Apart from the edible corms, the leaves can be used for cattlefeed, mulch or compost.
+
+The corms are rich in carbohydrates (about 90% by dry weight), especially starch (about 60% by dry weight), and are also a good source of dietary fiber, riboflavin, vitamin B6, potassium, copper, and manganese.
+
+If eaten uncooked, the surface of the plants may transmit fasciolopsiasis.",2
+522,Tofu,"Tofu, also known as bean curd, is a food cultivated by coagulating soy milk and then pressing the resulting curds into soft white blocks. It is a component in East Asian and Southeast Asian cuisines. Tofu can be soft, firm, or extra firm. Tofu has a subtle flavor and can be used in savory and sweet dishes. It is often seasoned or marinated to suit the dish.
+
+Tofu has a low calorie count and relatively large amounts of protein. It is high in iron, and it can have a high calcium or magnesium content, depending on the coagulants used in manufacturing (e.g. calcium chloride, calcium sulfate, magnesium sulfate).",10
+524,Fermented Black Beans,"Douchi (Chinese: 豆豉; pinyin: dòuchǐ), or tochi is a type of fermented and salted black soybean. In English, it is known as fermented black soybeans, Chinese fermented black beans (Chinese: 黑豆豆豉; pinyin: hēidòu dòuchǐ), salted black beans, salty black beans, or just black beans. They are a flavoring most popular in the cuisine of China, where they are most widely used for making black bean sauce dishes.[1][page needed]
+
+Douchi is made by fermenting and salting black soybeans. The black type soybean is most commonly used and the process turns the beans soft, and mostly semi-dry (if the beans are allowed to dry). Regular soybeans (white soybeans) are also used, but this does not produce ""salted black beans""; instead, these beans become brown. The smell is sharp, pungent, and spicy; the taste is salty, somewhat bitter and sweet.[citation needed] The product made with white soybeans is called mianchi.
+
+The process and product are similar to ogiri and iru, both being African fermented bean products[citation needed].
+
+Douchi, ""Chinese salted black beans"", and ""black soybeans"" should not be confused with the black turtle bean, a variety of common bean that is commonly used in the cuisines of Central America, South America, and the Caribbean.",15
+526,Sichuan Pepper,"Sichuan pepper, Sichuan peppercorn, or Szechuan pepper, is a commonly used spice in Chinese cuisine. It is derived from at least two species of the global genus Zanthoxylum, including Z. simulans and Z. bungeanum. The genus Zanthoxylum belongs in the rue or citrus family, and, despite its name, is not closely related to either black pepper nor the chili pepper.
+
+The husk or hull (pericarp) around the seeds may be used whole, especially in Sichuan cuisine, and the finely ground powder is one of the ingredients for five-spice powder. It is also used in traditional Chinese medicine. The pericarp is most often used, but the leaves of various species are also used in some regions of China.
+
+Another species of Zanthoxylum native to China, Z. schinifolium, called xiāng jiāo zi (香椒子, ""aromatic peppercorn"") or qīng huā jiāo (青花椒, ""green flower pepper""), is used as a spice in Hebei.
+
+While the exact flavour and composition of different species from the genus Zanthoxylum vary, most share the same essential characteristics. So while the terms ""Sichuan pepper"" and sanshō may refer specifically to Z. simulans and Z. piperitum, respectively, the two are commonly used interchangeably.
+
+Related species are used in the cuisines of Tibet, Bhutan, Nepal, Thailand, and India (the Konkani and Uttarakhandi people) and Toba Batak peoples. In Bhutan, this pepper is known as thingye and is used liberally in preparation of soups, gruels, and phaag sha paa (pork slices).[citation needed] In Nepal, timur is used in the popular foods momo, thukpa, chow mein, chicken chilli, and other meat dishes. It is also widely used in homemade pickles. People take timur as a medicine for stomach or digestion problems, in a preparation with cloves of garlic and mountain salt with warm water.",2
+527,Wonton Skin,"Won ton skin. Paper-thin squares of dough made from flour, water, eggs and salt used to make won tons, egg rolls and gyoza.",18
+529,Rice wine,"Rice wine is an alcoholic beverage fermented and distilled from rice, traditionally consumed in East Asia, Southeast Asia and South Asia. Rice wine is made from the fermentation of rice starch that has been converted to sugars. Microbes are the source of the enzymes that convert the starches to sugar.[1]
+
+Rice wine typically has an alcohol content of 18–25% ABV. Rice wines are used in Asian gastronomy at formal dinners and banquets and in cooking. They are also used in a religious and ceremonial context.",5
+530,Cooking wine,"Splash into casseroles, sauces and marinades for a rounded vibrant flavour.",12
+531,Duck Sauce,"Duck sauce (or orange sauce) is a condiment with a sweet and sour flavor and a translucent orange appearance similar to a thin jelly. Offered at Chinese-American restaurants, it is used as a dip for deep-fried dishes such as wonton strips, spring rolls, egg rolls, duck, chicken, fish, or with rice or noodles. It is often provided in single-serving packets along with soy sauce, mustard, hot sauce or red chili powder. It may be used as a glaze on foods, such as poultry. Despite its name the sauce is not prepared using duck meat.",14
+533,Bean Sprouts,"Bean sprouts are a common ingredient across the world. They are particularly common in Eastern Asian cuisine.
+
+There are two types of common bean sprouts:
+
+Mung bean sprout is made from the greenish-capped mung beans
+Soybean sprout is made from yellow, larger-grained soybean
+It typically takes one week for them to become fully grown. The sprouted beans are more nutritious than the original beans and they require much less cooking time.",2
+535,Wood Ear Mushrooms,"Auricularia auricula-judae, known as the Jew's ear, wood ear, jelly ear or by a number of other common names, is a species of edible Auriculariales fungus found worldwide. The fruiting body is distinguished by its noticeably ear-like shape and brown colouration; it grows upon wood, especially elder. Its specific epithet is derived from the belief that Judas Iscariot hanged himself from an elder tree; the common name ""Judas's ear"" was largely eclipsed by the corruption ""Jew's ear"", while today ""jelly ear"" and other names are sometimes used. The fungus can be found throughout the year in temperate regions worldwide, where it grows upon both dead and living wood.
+
+In the West, A. auricula-judae was used in folk medicine as recently as the 19th century for complaints including sore throats, sore eyes and jaundice, and as an astringent. Although it is not widely consumed in the West, it has long been popular in China, to the extent that Australia exported large volumes to China in the early twentieth century. Today, the fungus is a popular ingredient in many Chinese dishes, such as hot and sour soup, and also used in Chinese medicine. It is also used in Ghana, as a blood tonic. Modern research into possible medical applications has variously concluded that A. auricula-judae has antitumour, hypoglycemic, anticoagulant and cholesterol-lowering properties.",2
+536,Dark Rum,"Rum is a distilled alcoholic drink made from sugarcane byproducts, such as molasses, or directly from sugarcane juice, by a process of fermentation and distillation. The distillate, a clear liquid, is then usually aged in oak barrels.
+
+The majority of the world's rum production occurs in the Caribbean and Latin America. Rum is also produced in Australia, Portugal, Austria, Canada, Fiji, India, Japan, Mauritius, Nepal, New Zealand, the Philippines, Reunion Island, South Africa, Spain, Sweden, Taiwan, Thailand, the United Kingdom and the United States.
+
+Rums are produced in various grades. Light rums are commonly used in cocktails, whereas ""golden"" and ""dark"" rums were typically consumed straight or neat, on the rocks, or used for cooking, but are now commonly consumed with mixers. Premium rums are also available, made to be consumed either straight or iced.
+
+Rum plays a part in the culture of most islands of the West Indies as well as in The Maritimes and Newfoundland. This drink has famous associations with the Royal Navy (where it was mixed with water or beer to make grog) and piracy (where it was consumed as bumbo). Rum has also served as a popular medium of economic exchange, used to help fund enterprises such as slavery (see Triangular trade), organized crime, and military insurgencies (e.g., the American Revolution and Australia's Rum Rebellion).",12
+537,Light Rum,"Rum is a distilled alcoholic drink made from sugarcane byproducts, such as molasses, or directly from sugarcane juice, by a process of fermentation and distillation. The distillate, a clear liquid, is then usually aged in oak barrels.
+
+The majority of the world's rum production occurs in the Caribbean and Latin America. Rum is also produced in Australia, Portugal, Austria, Canada, Fiji, India, Japan, Mauritius, Nepal, New Zealand, the Philippines, Reunion Island, South Africa, Spain, Sweden, Taiwan, Thailand, the United Kingdom and the United States.
+
+Rums are produced in various grades. Light rums are commonly used in cocktails, whereas ""golden"" and ""dark"" rums were typically consumed straight or neat, on the rocks, or used for cooking, but are now commonly consumed with mixers. Premium rums are also available, made to be consumed either straight or iced.
+
+Rum plays a part in the culture of most islands of the West Indies as well as in The Maritimes and Newfoundland. This drink has famous associations with the Royal Navy (where it was mixed with water or beer to make grog) and piracy (where it was consumed as bumbo). Rum has also served as a popular medium of economic exchange, used to help fund enterprises such as slavery (see Triangular trade), organized crime, and military insurgencies (e.g., the American Revolution and Australia's Rum Rebellion).",12
+538,Rum,"Rum is a distilled alcoholic drink made from sugarcane byproducts, such as molasses, or directly from sugarcane juice, by a process of fermentation and distillation. The distillate, a clear liquid, is then usually aged in oak barrels.
+
+The majority of the world's rum production occurs in the Caribbean and Latin America. Rum is also produced in Australia, Portugal, Austria, Canada, Fiji, India, Japan, Mauritius, Nepal, New Zealand, the Philippines, Reunion Island, South Africa, Spain, Sweden, Taiwan, Thailand, the United Kingdom and the United States.
+
+Rums are produced in various grades. Light rums are commonly used in cocktails, whereas ""golden"" and ""dark"" rums were typically consumed straight or neat, on the rocks, or used for cooking, but are now commonly consumed with mixers. Premium rums are also available, made to be consumed either straight or iced.
+
+Rum plays a part in the culture of most islands of the West Indies as well as in The Maritimes and Newfoundland. This drink has famous associations with the Royal Navy (where it was mixed with water or beer to make grog) and piracy (where it was consumed as bumbo). Rum has also served as a popular medium of economic exchange, used to help fund enterprises such as slavery (see Triangular trade), organized crime, and military insurgencies (e.g., the American Revolution and Australia's Rum Rebellion).",12
+541,White Wine Vinegar,"Wine vinegar is made from red or white wine, and is the most commonly used vinegar in Southern and Central Europe, Cyprus and Israel. As with wine, there is a considerable range in quality. Better-quality wine vinegars are matured in wood for up to two years, and exhibit a complex, mellow flavor. Wine vinegar tends to have a lower acidity than white or cider vinegars. More expensive wine vinegars are made from individual varieties of wine, such as champagne, sherry, or pinot gris.",12
+542,Smoked Salmon,"Smoked salmon is a preparation of salmon, typically a fillet that has been cured and hot or cold smoked. Due to its moderately high price, smoked salmon is considered a delicacy. Although the term lox is sometimes applied to smoked salmon, they are different products.",13
+543,Mars Bar,"Mars is a variety of chocolate bar produced by Mars, Incorporated. It was first manufactured in 1932 in Slough, England by Forrest Mars, Sr. The bar was sold in two different formulations. In its original British version the bar consists of milk chocolate surrounding caramel and nougat, developed to resemble the American candy bar known as the Milky Way, which had been introduced a decade earlier. An American version of the Mars Bar was produced which had nougat and toasted almonds covered in milk chocolate; later, caramel was added to the recipe as well. The American version was discontinued in 2002, though it has been revived for short runs since then.",20
+544,Rice Krispies,"Rice Krispies (also known as Rice Bubbles in Australia and New Zealand) is a breakfast cereal marketed by Kellogg's in 1927 and released to the public in 1928. Rice Krispies are made of crisped rice (rice and sugar paste that is formed into rice shapes or ""berries"", cooked, dried and toasted), and expand forming very thin and hollowed out walls that are crunchy and crisp. When milk is added to the cereal the walls tend to collapse, creating the ""Snap, crackle and pop"" sounds.
+
+Rice Krispies cereal has a long advertising history, with the elf cartoon characters Snap, Crackle and Pop touting the brand. In 1963, The Rolling Stones recorded a short song for a Rice Krispies television advertisement.",5
+546,Almond Milk,,15
+548,Allspice,,1
+550,Almond Extract,"The almond (Prunus dulcis, syn. Prunus amygdalus) is a species of tree native to Mediterranean climate regions of the Middle East, but widely cultivated elsewhere. The almond is also the name of the edible and widely cultivated seed of this tree. Within the genus Prunus, it is classified with the peach in the subgenus Amygdalus, distinguished from the other subgenera by corrugations on the shell (endocarp) surrounding the seed.
+
+The fruit of the almond is a drupe, consisting of an outer hull and a hard shell with the seed, which is not a true nut, inside. Shelling almonds refers to removing the shell to reveal the seed. Almonds are sold shelled or unshelled. Blanched almonds are shelled almonds that have been treated with hot water to soften the seedcoat, which is then removed to reveal the white embryo.",15
+553,Goat Meat,"The domestic goat or simply goat (Capra aegagrus hircus) is a subspecies of C. aegagrus domesticated from the wild goat of Southwest Asia and Eastern Europe. The goat is a member of the animal family Bovidae and the goat—antelope subfamily Caprinae, meaning it is closely related to the sheep. There are over 300 distinct breeds of goat. Goats are one of the oldest domesticated species of animal, and have been used for milk, meat, fur, and skins across much of the world. Milk from goats is often turned into goat cheese.",14
+554,Black Beans,"The black turtle bean is a small, shiny variety of the common bean (Phaseolus vulgaris) especially popular in Latin American cuisine, though it can also be found in the Cajun and Creole cuisines of south Louisiana. Like most common beans, it is native to the Americas, but has been introduced around the world. It is also used in East Indian cooking, Punjabi cuisine, and in Maharashtrian cuisine, it is known as Kala Ghevada. It is used interchangeably with vigna mungo (black gram) in countries such as the United States. The black turtle bean is often simply called the black bean (frijoles negros, zaragoza, judía negra, poroto negro, or caraota o habichuela negra in Spanish; and feijão preto in Portuguese), although this terminology can cause confusion with other black beans.",19
+555,Anchovy Fillet,"Anchovies are tiny, silvery fish that come from the Mediterranean and southern European coasts. They're sold salt-cured, usually oil-packed, and filleted. Commonly they come either flat or rolled in cans or jars, or ground and mixed with oil or butter to make a paste that is sold in tubes. On their own, anchovies are very salty but mixed into sauces, dressings, or pastas they add a wonderful depth of flavor.",13
+556,Ras el hanout,"Ras el hanout or rass el hanout (Arabic: راس الحانوت‎ raʾs al-ḥānūt, pronounced [rɑʔs ælħɑːnuːt] (About this soundlisten)) is a spice mix found in varying forms in Tunisia, Algeria, and Morocco.[1] It plays a similar role in North African cuisine as garam masala does in Indian cuisine. The name in Arabic means ""head of the shop"" and implies a mixture of the best spices the seller has to offer. Ras el hanout is used in many savory dishes, sometimes rubbed on meat or fish, or stirred into couscous or rice.
+
+There is no definitive composition of spices that makes up ras el hanout. Each shop, company, or family may have their own blend. The mixture usually consists of over a dozen spices, in different proportions. Commonly used ingredients include cardamom, cumin, clove, cinnamon, nutmeg, mace, allspice, dry ginger, chili peppers, coriander seed, peppercorn, sweet and hot paprika, fenugreek, and dry turmeric. Some spices may be particular to the region, such as ash berries, chufa, grains of paradise, orris root, monk's pepper, cubebs, dried rosebud, fennel seed or aniseed, galangal, long pepper. Ingredients may be toasted before being ground or pounded in a mortar and mixed together. Some preparations include salt or sugar, but that is generally not the accepted practice. Garlic, saffron, nuts or dry herbs are generally not included, as they are usually added to dishes individually, but some commercial preparations, particularly in Europe and North America, may contain them.
+
+The composition of ras el hanout differs somewhat from the Baharat spice mix, but they differ more by the types of dishes they are associated with and by region rather than the ingredients in them. Although used by Berber people, it should not be confused with ""berbere"" spice mix from Ethiopia.
+
+Certain supposed aphrodisiacs, including the notoriously dangerous ""green metallic beetles"", cantharides, have appeared in many Moroccan prescriptions, but these seem to be irrelevant for flavouring purposes.",13
+557,Filo Pastry,"Filo or phyllo (Greek: φύλλο ""leaf"") is a very thin unleavened dough used for making pastries such as baklava and börek in Middle Eastern and Balkan cuisines. Filo-based pastries are made by layering many sheets of filo brushed with oil or butter; the pastry is then baked.",17
+558,Orange Blossom Water,"Orange flower water, or orange blossom water, is the clear, perfumed by-product of the distillation of fresh bitter-orange blossoms for their essential oil.
+
+Uses
+Mediterranean Relief.jpg
+This essential water has traditionally been used as an aromatizer in many Mediterranean traditional dessert dishes, such as in France for the gibassier and pompe à l'huile or in Spain for the Roscón de Reyes (King cake), or the Samsa in Tunisia or in Moroccan coffee, but has more recently found its way into other cuisines. For example, orange flower water is used in Europe to flavor madeleines, in Mexico to flavor little wedding cakes and Pan de muerto, and in the United States to make orange blossom scones and marshmallows. Orange flower water is also used as an ingredient in some cocktails, such as the Ramos Gin Fizz. In Malta and many North African as well as Middle Eastern countries, orange blossom water is widely used as medicine for stomach ache and given to small children as well as adults.
+
+Orange flower water has been a traditional ingredient used often in North African as well as in Middle Eastern cooking. In Arab variants of baklava, orange blossom water is often mixed with the sweet syrup for flavor. Orange blossoms are believed to be used in this manner because they are seen as the traditional bridal flower and, therefore, symbolize purity (white, small and delicate). It is also added to plain water in the Middle East to mask high mineral content and other unpleasant flavors (e.g. those arising from storage in a qulla, a type of clay jug that keeps water cool in a manner similar to the zeer); some add the fragrance irrespective of the taste of the plain water.",3
+559,Candied Peel,"Candied fruit, also known as crystallized fruit or glacé fruit, has existed since the 14th century. Whole fruit, smaller pieces of fruit, or pieces of peel, are placed in heated sugar syrup, which absorbs the moisture from within the fruit and eventually preserves it.",13
+561,Sherry,"Sherry is a fortified wine made from white grapes that are grown near the city of Jerez de la Frontera in Andalusia, Spain.",12
+562,Rose water,"Rose water is a flavoured water made by steeping rose petals in water. Additionally, it is the hydrosol portion of the distillate of rose petals, a by-product of the production of rose oil for use in perfume. It is used to flavour food, as a component in some cosmetic and medical preparations, and for religious purposes throughout Europe and Asia.",2
+563,Mixed Spice,"Mixed spice, also called pudding spice, is a British[1] blend of sweet spices, similar to the pumpkin pie spice used in the United States. Cinnamon is the dominant flavour, with nutmeg and allspice. It is often used in baking, or to complement fruits or other sweet foods.",4
+565,Sweet Potatoes,"The sweet potato or sweetpotato is a dicotyledonous plant that belongs to the bindweed or morning glory family, Convolvulaceae. Its large, starchy, sweet-tasting, tuberous roots are a root vegetable. The young leaves and shoots are sometimes eaten as greens.",2
+566,Bread Rolls,"A roll is a small, usually round or oblong individual loaf of bread served as a meal accompaniment (eaten plain or with butter) A roll can be served and eaten whole or cut transversely and dressed with filling between the two halves. Rolls are also commonly used to make sandwiches similar to those produced using slices of bread. They are found in most cuisines all over the world. In the Deipnosophistae, the author Athenaeus (c. 170 – c. 230) describes some of the bread, cakes, and pastries available in the Classical world. Among the breads mentioned are griddle cakes, honey-and-oil bread, mushroom-shaped loaves covered in poppy seeds, and the military specialty of rolls baked on a spit.",5
+568,Potatoe Buns,"Potato bread is a form of bread in which potato flour or potato replaces a portion of the regular wheat flour. It is cooked in a variety of ways, including baking it on a hot griddle or pan, or in an oven. It may be leavened or unleavened, and may have a variety of other ingredients baked into it. The ratio of potato to wheat flour varies significantly from recipe to recipe, with some recipes having a majority of potato, and others having a majority of wheat flour. Some recipes call for mashed potatoes, with others calling for dehydrated potato flakes. It is available as a commercial product in many countries, with similar variations in ingredients, cooking method, and other variables.",2
+569,Ground Pork,"Ground meat, called mince or minced meat outside of North America (i.e. in U.K. and Commonwealth countries), and keema or qeema (Hindustani: क़ीमा (Devanagari), قیمہ (Nastaleeq), (pronounced [ˈqiːmaː])) in the Indian subcontinent, is meat finely chopped by a meat grinder or a chopping knife. A common type of ground meat is ground beef, but many other types of meats are prepared in a similar fashion, including pork, lamb, and poultry. In the Indian subcontinent, both mutton and goat meat are also minced to produce keema.",12
+570,Pork Chops,"A pork chop, like other meat chops, is a loin cut taken perpendicular to the spine of the pig and usually containing a rib or part of a vertebra. Pork chops are not processed and are leaner than other cuts of pork. Chops are commonly served as an individual portion.",12
+571,Yukon Gold Potatoes,"Yukon Gold is a large cultivar of potato most distinctly characterized by its thin, smooth, eye-free skin and yellow-tinged flesh. This potato was developed in the 1960s by Garnet Johnston in Guelph, Ontario, Canada, with the help of Geoff Rowberry at the University of Guelph. The official cross was made in 1966 and Yukon Gold was finally released into the market in 1980.",19
+572,Yellow Onion,"The brown onion or yellow onion is a variety of dry onion with a strong flavour. They have a greenish-white, light yellow, or white inside; its layers of papery skin have a yellow-brown or pale golden colour",2
+573,Beef Stock Concentrate,"Stock, sometimes called bone broth, is a savory cooking liquid that forms the basis of many dishes, particularly soups, stews and sauces. Making stock involves simmering animal bones or meat, seafood, or vegetables in water or wine, often for an extended period of time. Mirepoix or other aromatics may be added for more flavor.",2
+574,Chicken Stock Concentrate,"Stock, sometimes called bone broth, is a savory cooking liquid that forms the basis of many dishes, particularly soups, stews and sauces. Making stock involves simmering animal bones or meat, seafood, or vegetables in water or wine, often for an extended period of time. Mirepoix or other aromatics may be added for more flavor.",14
+575,Persian Cucumber,"Cucumber (Cucumis sativus) is a widely cultivated plant in the gourd family, Cucurbitaceae. It is a creeping vine that bears cucumiform fruits that are used as vegetables. There are three main varieties of cucumber: slicing, pickling, and seedless. Within these varieties, several cultivars have been created. In North America, the term ""wild cucumber"" refers to plants in the genera Echinocystis and Marah, but these are not closely related. The cucumber is originally from South Asia, but now grows on most continents. Many different types of cucumber are traded on the global market.",13
+578,Rhubarb,"Rhubarb is a general term used for the cultivated plants in the genus Rheum in the family Polygonaceae. It is a herbaceous perennial growing from short, thick rhizomes. Historically, different plants have been called ""rhubarb"" in English.",2
+579,Pita Bread,"Pita or pitta, is a family of yeast-leavened round flatbreads baked from wheat flour, common in the Mediterranean, Middle East, and neighboring areas.",5
+580,Bulgur Wheat,"Bulgur is a cereal food made from the cracked parboiled groats of several different wheat species, most often from durum wheat. It originates in Middle Eastern cuisine.",5
+581,Quinoa,"Quinoa is a flowering plant in the amaranth family. It is an herbaceous annual plant grown as a crop primarily for its edible seeds; the seeds are rich in protein, dietary fiber, B vitamins, and dietary minerals in amounts greater than in many grains.",1
+582,Dill Pickles,"A pickled cucumber is a cucumber that has been pickled in a brine, vinegar, or other solution and left to ferment for a period of time, by either immersing the cucumbers in an acidic solution or through souring by lacto-fermentation. Pickled cucumbers are often part of mixed pickles.",1
+583,Sesame Seed Burger Buns,"A bun is a small, sometimes sweet, bread-based item or roll. Though they come in many shapes and sizes, they are most commonly hand-sized or smaller, with a round top and flat bottom. Buns are usually made from flour, sugar, milk, yeast and butter.",1
+586,Iceberg Lettuce,Iceberg is a variety of lettuce with crisp leaves that grow in a spherical head resembling cabbage. It is considered one of the sweeter lettuce varieties like romaine and butterhead. Mature iceberg lettuce grows to about one foot in diameter.,2
+587,Gherkin Relish,"A relish is a cooked and pickled product made of chopped vegetables, fruits or herbs and is a food item typically used as a condiment to enhance a staple. Examples are chutneys and the North American relish, a pickled cucumber jam eaten with hot dogs or hamburgers.",18
+588,Cheese Slices,"Processed cheese is a food product made from cheese and other unfermented dairy ingredients mixed with emulsifiers. Additional ingredients, such as vegetable oils, salt, food coloring, or sugar may be included. As a result, many flavors, colors, and textures of processed cheese exist.",15
+589,Shortening,"Shortening is any fat that is a solid at room temperature and used to make crumbly pastry and other food products. Although butter is solid at room temperature and is frequently used in making pastry, the term ""shortening"" seldom refers to butter, but is more closely related to margarine.",23
+590,Warm Water,"Water is an inorganic, transparent, tasteless, odorless, and nearly colorless chemical substance, which is the main constituent of Earth's hydrosphere and the fluids of most living organisms. It is vital for all known forms of life, even though it provides no calories or organic nutrients. Its chemical formula is H2O, meaning that each of its molecules contains one oxygen and two hydrogen atoms, connected by covalent bonds. Water is the name of the liquid state of H2O at standard ambient temperature and pressure. It forms precipitation in the form of rain and aerosols in the form of fog. Clouds are formed from suspended droplets of water and ice, its solid state. When finely divided, crystalline ice may precipitate in the form of snow. The gaseous state of water is steam or water vapor. Water moves continually through the water cycle of evaporation, transpiration (evapotranspiration), condensation, precipitation, and runoff, usually reaching the sea.",2
+591,Boiling Water,"Water is an inorganic, transparent, tasteless, odorless, and nearly colorless chemical substance, which is the main constituent of Earth's hydrosphere and the fluids of most living organisms. It is vital for all known forms of life, even though it provides no calories or organic nutrients. Its chemical formula is H2O, meaning that each of its molecules contains one oxygen and two hydrogen atoms, connected by covalent bonds. Water is the name of the liquid state of H2O at standard ambient temperature and pressure. It forms precipitation in the form of rain and aerosols in the form of fog. Clouds are formed from suspended droplets of water and ice, its solid state. When finely divided, crystalline ice may precipitate in the form of snow. The gaseous state of water is steam or water vapor. Water moves continually through the water cycle of evaporation, transpiration (evapotranspiration), condensation, precipitation, and runoff, usually reaching the sea.",2
+592,Pickle Juice,"Pickling is the process of preserving or extending the shelf life of food by either anaerobic fermentation in brine or immersion in vinegar. In East Asia, vinaigrette is also used as a pickling medium. The pickling procedure typically affects the food's texture, taste and flavor.",12
+593,Powdered Sugar,"Powdered sugar, also called confectioners' sugar or icing sugar, is a finely ground sugar produced by milling granulated sugar into a powdered state. It usually contains a small amount of anti-caking agent to prevent clumping and improve flow",18
+595,Polish Sausage,"Kielbasa is any type of meat sausage from Poland, and a staple of Polish cuisine. In American English the word typically refers to a coarse, U-shaped smoked sausage of any kind of meat, which closely resembles the Wiejska sausage in British English.",19
+597,Caraway Seed,"Caraway, also known as meridian fennel and Persian cumin (Carum carvi), is a biennial plant ... For example, it is used in goulash, sauerkraut, and caraway seed cake. The roots may be cooked as a vegetable like parsnips or carrots",1
+598,Herring,"Herring are forage fish, mostly belonging to the family Clupeidae. Herring often move in large schools around fishing banks and near the coast, found particularly in shallow, temperate waters of the North Pacific and North Atlantic Oceans, including the Baltic Sea, as well as off the west coast of South America.",13
+599,Jam,"Fruit preserves are preparations of fruits, vegetables and sugar, often stored in glass jam jars and Mason jars.
+
+Many varieties of fruit preserves are made globally, including sweet fruit preserves, such as those made from strawberry or apricot, and savory preserves, such as those made from tomatoes or squash. The ingredients used and how they are prepared determine the type of preserves; jams, jellies, and marmalades are all examples of different styles of fruit preserves that vary based upon the fruit used. In English, the word, in plural form, ""preserves"" is used to describe all types of jams and jellies.",2
+601,Sushi Rice,"As the dietary staple of Japan, knowing how to cook Japanese rice is an important first step to becoming a Japanese cooking master. Perfectly prepared Japanese rice should be light, fluffy, and slightly sticky when cooked",5
+602,Figs,"Ficus carica is an Asian species of flowering plant in the mulberry family, known as the common fig. It is the source of the fruit also called the fig and as such is an important crop in those areas where it is grown commercially.",3
+603,Cider,"Cider (/ˈsaɪdər/ SY-dər) is an alcoholic beverage made from the fermented juice of apples. Cider is widely available in the United Kingdom (particularly in the West Country) and the Republic of Ireland. The UK has the world's highest per capita consumption, as well as its largest cider-producing companies. Ciders from the South West of England are generally stronger. Cider is also popular in many Commonwealth countries, such as India, Canada, Australia, and New Zealand. As well as the UK and its former colonies, cider is popular in Portugal (mainly in Minho and Madeira), France (particularly Normandy and Brittany), northern Italy (Piedmont and Friuli), and northern Spain (especially the Principality of Asturias and the Basque Country). Central Europe also has its own types of cider with Rhineland-Palatinate and Hesse producing a particularly tart version known as Apfelwein. In the U.S., varieties of fermented cider are often called hard cider to distinguish alcoholic cider from non-alcoholic apple cider or ""sweet cider"", also made from apples. In Canada, cider cannot be called cider if there are no apples. Furthermore, according to the Food and Drug Regulations in Canada, cider cannot contain less than 2.5% or over 13% absolute alcohol by volume.",12
+604,Beetroot,"The beetroot is the taproot portion of a beet plant, usually known in Canada and the USA as beets while the vegetable is referred to as beetroot in British English, and also known as the table beet, garden beet, red beet, dinner beet or golden beet.",2
+605,Sardines,"""Sardine"" and ""pilchard"" are common names that refer to various small, oily forage fish in the herring family Clupeidae. The term ""sardine"" was first used in English during the early 15th century and may come from the Mediterranean island of Sardinia, around which sardines were once abundant.",13
+607,Buckwheat,"Buckwheat (Fagopyrum esculentum), or common buckwheat, is a plant cultivated for its grain-like seeds and as a cover crop. The name ""buckwheat"" is used for several other species, such as Fagopyrum tataricum, a domesticated food plant raised in Asia. Despite the name, buckwheat is not closely related to wheat, as it is not a grass. Instead, buckwheat is related to sorrel, knotweed, and rhubarb. Buckwheat is referred to as a pseudocereal because its seeds' culinary use is the same as cereals', owing to their composition of complex carbohydrates.",5
+608,Prunes,"A prune is a dried plum, most commonly from the European plum. Not all plum species or varieties can be dried into prunes. A prune is the firm-fleshed fruit (plum) of Prunus domestica varieties that have a high soluble solids content, and do not ferment during drying. Use of the term ""prune"" for fresh plums is obsolete except when applied to varieties of plum grown for drying.",3
