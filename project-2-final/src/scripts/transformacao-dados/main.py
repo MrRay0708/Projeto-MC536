@@ -40,6 +40,14 @@ class Ingredient:
       self.str_type = str_type
 
 
+class ProcessedIngredient:
+  def __init__(self, food: Food, ingredient: Ingredient, food_group: dict()) -> None:
+    self.id = ingredient.id_ingredient
+    self.name = ingredient.str_ingredient
+    self.description = ingredient.str_description
+    self.id_group = food_group[food.food_group]
+
+
 def distancia_palavras(a, b):
   n = len(a)
   m = len(b)
@@ -64,9 +72,11 @@ def distancia_palavras(a, b):
   return t[n][m]
 
 
-def ler_csv(nome_arquivo, from_class):
+def ler_csv(nome_arquivo, from_class, isFood = False):
   lista_objetos = []
+  lista_grupos = {}
 
+  k = 0
   with open(nome_arquivo, 'r', encoding="utf8") as arquivo_csv:
       leitor_csv = csv.reader(arquivo_csv)
 
@@ -78,7 +88,11 @@ def ler_csv(nome_arquivo, from_class):
 
           lista_objetos.append(food)
 
-  return lista_objetos
+          if (isFood and food.food_group not in lista_grupos):
+            k += 1
+            lista_grupos[food.food_group] = k
+
+  return lista_objetos, lista_grupos
 
 def escrever_csv_comb(list, nome_arquivo):
   with open(nome_arquivo, 'w', newline='', encoding='utf-8') as arquivo_csv:
@@ -88,6 +102,24 @@ def escrever_csv_comb(list, nome_arquivo):
 
     for item in list:
         escritor_csv.writerow([item['id_ingredient'], item['id_food'], item['public_id_food']])
+
+def escrever_csv_processed(list, nome_arquivo):
+  with open(nome_arquivo, 'w', newline='', encoding='utf-8') as arquivo_csv:
+    escritor_csv = csv.writer(arquivo_csv)
+
+    escritor_csv.writerow(['id', 'name', 'description', 'group_id'])
+
+    for item in list:
+        escritor_csv.writerow([item.id, item.name, item.description, item.id_group])
+
+def escrever_csv_group(dict, nome_arquivo):
+  with open(nome_arquivo, 'w', newline='', encoding='utf-8') as arquivo_csv:
+    escritor_csv = csv.writer(arquivo_csv)
+
+    escritor_csv.writerow(['id', 'description_group'])
+
+    for item in dict.keys():
+        escritor_csv.writerow([dict[item], item])
 
 def compara_ingredient_plant(ingredient, food):
     # Verifica se o name da planta está contido no str_ingredient do ingrediente
@@ -103,8 +135,9 @@ def compara_ingredient_plant(ingredient, food):
     # return distancia_palavras(ingredient.str_ingredient.lower(), food.name.lower()) <= 2
     # return ingredient.str_ingredient.lower() in food.name.lower()
 
-def encontrar_combinacoes(lista_ingredientes, lista_foods):
+def encontrar_combinacoes(lista_ingredientes, lista_foods, groups):
     combinacoes = []
+    processedIngredients = []
 
     # for ingrediente in lista_ingredientes:
     #     achou = False
@@ -120,6 +153,8 @@ def encontrar_combinacoes(lista_ingredientes, lista_foods):
     #     if not achou:
     #       print(ingrediente.id_ingredient, ingrediente.str_ingredient)
     
+    print('Calculando combinações...')
+
     for ingrediente in lista_ingredientes:
       achou = False
 
@@ -159,17 +194,23 @@ def encontrar_combinacoes(lista_ingredientes, lista_foods):
             food_minin = food
       
       if food_minin == None: continue
-      print(ingrediente.id_ingredient, ingrediente.str_ingredient.lower(), '-', food_minin.id, food_minin.name)
+      
       combinacoes.append({'id_ingredient': ingrediente.id_ingredient, 'id_food': food_minin.id, 'public_id_food': food_minin.public_id})
+      processedIngredients.append(ProcessedIngredient(food_minin, ingrediente, groups))
 
-    return combinacoes
+    print('Calculo finalizado')
+
+    return combinacoes, processedIngredients
 
 def main():
-  food_list = ler_csv("../../../data/raw/Food.csv", Food)
-  ingredient_list = ler_csv("../../../data/external/ingredientes.csv", Ingredient)
+  food_list, groups = ler_csv("../../../data/raw/Food.csv", Food, True)
+  ingredient_list, _ = ler_csv("../../../data/external/ingredientes.csv", Ingredient)
   
-  comb = encontrar_combinacoes(ingredient_list, food_list)
+  comb, processed = encontrar_combinacoes(ingredient_list, food_list, groups)
 
   escrever_csv_comb(comb, '../../../data/interim/combinacao_food_meal.csv')
+  escrever_csv_processed(processed, '../../../data/processed/p_ingredients.csv')
+  escrever_csv_group(groups, '../../../data/processed/p_groups.csv')
+
   
 main()
