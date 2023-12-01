@@ -7,7 +7,7 @@ Sabemos que cada região do mundo tem a sua cultura, sua história, suas visões
 ## Slides
 
 ### Apresentação Prévia
-> Coloque aqui o link para o PDF da apresentação prévia
+[link](https://github.com/MrRay0708/Projeto-MC536/blob/main/project-2-final/slides/Apresenta%C3%A7%C3%A3oPrevia.pdf)
 
 ### Apresentação Final
 > Coloque aqui o link para o PDF da apresentação final
@@ -65,8 +65,6 @@ TheMealDB | [link](https://www.themealdb.com/) | Uma base com diversas receitas 
 
 ## Detalhamento do Projeto
 
-### Extração dos dados e construção do dataset
-
 A extração de dados foi algo trabalhoso dentro do nosso trabalho. Escolhemos duas bases, o FoodDB  e o TheMealDB, a principal dificuldade era conseguir relacionar os alimentos da tabela Food do FoodDB com os ingredientes da tabela de ingredientes da base do TheMealDB. Eles não usam o mesmo tipo de chave, o que leva a nós termos que fazer ligações pelo nome dos alimentos, o que pode dificultar bastante o processo. 
 
 Antes de comentar dessa parte, é importante ressaltar que o TheMealDB não possue os dados em uma planilha, somente os disponibiliza na API dele. Portanto, uma etapa anterior foi fazermos scripts ([link](https://github.com/MrRay0708/Projeto-MC536/tree/main/project-2-final/src/scripts/transform_api_json_para_csvs_themeal)) para conseguir não só extrair todos os dados pela API da base de dados, mas também ao mesmo tempo criar os .csv, sem perca de dados.
@@ -81,7 +79,7 @@ Então fizemos um algoritmo ([link](https://github.com/MrRay0708/Projeto-MC536/t
 
 Com esse algoritmo, conseguimos achar uma relação para quase todos os ingredientes do TheMealDB. Sobrando só alguns que tivemos que realmente interpletar e achar uma relação manualmente, não sendo muito trabalhoso. 
 
-### Análises feitas
+Sobre as análises feitas, optamos por seguir, como já dito na etapa de contexto e motivação, por um caminho de entender a culinária de cada região, tentanto ter insighs sobre o que cada região do mundo consome, quais são os ingredientes/nutrientes mais abundantes/em falta, na alimentação de cada região. Mais abaixo vamos explicar mais esses tópicos mostrando os resultados.
 
 ## Evolução do Projeto
 
@@ -89,30 +87,34 @@ Na primeira versão do projeto, tinhamos já uma ideia de trabalhar com bases de
 
 Uma das bases que retiramos foi uma base que tinha pesquisas sobre o consumo de nutrientes de diversas pessoas. Ainda que fossem dados interessantes, só tinhamos informação de nutrientes, então teriamos que relacionar a tabela com nutrientes e só assim relacionar com os alimentos (ingredientes), o que deixaria o processo de extração e modelagem de dados muito mais trabalhoso do que já foi. Nesse caso, deixamos essa parte de lado simplificar o projeto e focar nas análises que queriamos, que é sobre as receitas em diversas regiões.
 
+Um outro problema que tivemos foi a extração de dados, como foi explicado já acima, foi um processo trabalhoso, que exigiu certo tempo nosso para pensar nas maneiras mais eficientes de se juntar essas duas bases.
+
 ## Perguntas de Pesquisa/Análise Combinadas e Respectivas Análises
 
 ### Perguntas/Análise com Resposta Implementada
 
 ### Pergunta/Análise 1
-Quais os nutrientes mais consumidos em cada país?
-- A ideia aqui é fazer uma relação entre as receitas de cada país e os nutrientes que mais aparecem nessas receitas, entendendo um pouco do perfil nutricional de cada pais
-
-### Pergunta/Análise 2
 Quais os ingredientes que compõe determinadas receitas?
 - Mapear o relacionamento entre receitas e ingredientes
-
-### Pergunta/Análise 3
-Quais os ingredientes mais consumidos? E em cada regiões?
+  
+### Pergunta/Análise 2
+Quais os ingredientes mais consumidos? E em cada região?
 - A partir das receitas identificar os ingredientes mais típicos de cada país e de maneira geral
+  
+### Pergunta/Análise 3
+Quais os nutrientes mais consumidos em cada região?
+- A ideia aqui é fazer uma relação entre as receitas de cada país e os nutrientes que mais aparecem nessas receitas, entendendo um pouco do perfil nutricional de cada pais
 
 ### Pergunta/Análise 4
-Dado um conjunto de nutrientes e uma faixa de valor, quais são as regiões que tem um consumo adequado desse nutriente dentro dessa faixa de valor?
-- Aqui podemos tentar entender o valor nutricional das receitas de cada região, dado um nutriente, ver quais regiões consomem de forma adequada esse nutriente, a partir da receita e de seus ingredientes.
+Dado as receitas de determinada categoria, quais são os componentes (químico) que menos aparecem? E quais são os que mais aparecem? 
+- Aqui conseguimos ver componentes quimicos que são importantes para o ser humano (ou que podem ser prejudiciais) e verificar o quanto eles aparecem nas receitas de uma categoria específica. Podendo até mesmo tentar relacionar com a região da receita.
+
+### Perguntas/Análise Propostas mas Não Implementadas
 
 ### Pergunta/Análise 5
-Dado as receitas de determinada categoria, quais são os componentes que menos aparecem? E quais são os que mais aparecem? 
-- Aqui conseguimos ver componentes quimicos que são importantes para o ser humano (ou que podem ser prejudiciais) e verificar o quanto eles aparecem nas receitas de uma categoria específica. Podendo até mesmo tentar relacionar com a região da receita.
-	
-### Pergunta/Análise 6
 Dado um grupo específico de ingredientes, quais são os nutrientes mais/menos abundantes e quais são os componentes mais/menos abundantes? Conseguimos relacionar isso com a região de receitas que tem esses ingredientes?
 - Por essa análise, conseguimos ver o impacto de determinado componente para o perfil nutricional desse grupo em específico
+
+### Pergunta/Análise 6
+Dado um conjunto de nutrientes e uma faixa de valor, quais são as regiões que tem um consumo adequado desse nutriente dentro dessa faixa de valor?
+- Aqui podemos tentar entender o valor nutricional das receitas de cada região, dado um nutriente, ver quais regiões consomem de forma adequada esse nutriente, a partir da receita e de seus ingredientes.
