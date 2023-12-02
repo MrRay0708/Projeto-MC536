@@ -179,7 +179,9 @@ def encontrar_combinacoes(lista_ingredientes, lista_foods, groups):
             minin = cont
             food_minin = food
       
-      if food_minin == None: continue
+      if food_minin == None: 
+        combinacoes.append({'id_ingredient': ingrediente.id_ingredient, 'id_food': '', 'public_id_food': ''})
+        continue
       
       combinacoes.append({'id_ingredient': ingrediente.id_ingredient, 'id_food': food_minin.id, 'public_id_food': food_minin.public_id})
       processedIngredients.append(ProcessedIngredient(food_minin, ingrediente, groups))
