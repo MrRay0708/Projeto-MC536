@@ -4,6 +4,8 @@
 
 Sabemos que cada região do mundo tem a sua cultura, sua história, suas visões, seus costumes, suas realidades e sua própria culinária. A ideia aqui é não só entender o perfil nutricional de cada receita, ou mesmo somente entender a composição quimica das mesmas, em uma análise mais profunda, com as bases de dados que vamos usar, conseguimos traçar um perfil nutricional ou um perfil de consumo com base nas receitas de cada região, tentando entender os alimentos mais usados para cada uma. 
 
+<br>
+
 ## Slides
 
 ### Apresentação Prévia
@@ -12,11 +14,15 @@ Sabemos que cada região do mundo tem a sua cultura, sua história, suas visões
 ### Apresentação Final
 > Coloque aqui o link para o PDF da apresentação final
 
-## Modelo Conceitual Revisado
+<br>
+
+## Modelo Conceitual
 
 ![Modelo](https://github.com/MrRay0708/Projeto-MC536/blob/main/project-2-final/assets/mer.png)
 
-## Modelo Lógico Revisado
+<br>
+
+## Modelo Lógico
 
 ```
 Categoria(_id_, nome)
@@ -49,12 +55,15 @@ IngredienteComponenteQuimico(_ingrediente_id_, _componenteQuimico_id_)
   _componenteQuimico_id_ chave estrangeira -> ComponenteQuimico(id)
 ```
 
+<br>
+
 ## Dataset Publicado
-> Se ao tratar e integrar os dados originais foram produzidas novas bases relacionais ou de grafos, elencar essas bases.
 
 título do arquivo/base | link | breve descrição
 ----- | ----- | -----
 `<título do arquivo/base>` | `<link para arquivo/base>` | `<breve descrição do arquivo/base>`
+
+<br>
 
 ## Bases de Dados
 
@@ -62,6 +71,8 @@ Título da base | Link | Breve descrição
 ----- | ----- | -----
 FoodDB | [link](https://www.foodb.ca/) | Uma base com diversos alimentos e suas composições tanto quimicas como com relação aos nutrientes encotrados em cada alimento
 TheMealDB | [link](https://www.themealdb.com/) | Uma base com diversas receitas e seus ingredientes, relacionando elas com seus países/regiões de origem
+
+<br>
 
 ## Detalhamento do Projeto
 
@@ -81,6 +92,8 @@ Com esse algoritmo, conseguimos achar uma relação para quase todos os ingredie
 
 Sobre as análises feitas, optamos por seguir, como já dito na etapa de contexto e motivação, por um caminho de entender a culinária de cada região, tentanto ter insighs sobre o que cada região do mundo consome, quais são os ingredientes/nutrientes mais abundantes/em falta, na alimentação de cada região. Mais abaixo vamos explicar mais esses tópicos mostrando os resultados.
 
+<br>
+
 ## Evolução do Projeto
 
 Na primeira versão do projeto, tinhamos já uma ideia de trabalhar com bases de relacionadas a receitas, entretanto tivemos alguns problemas no momento de escolher as bases: na nossa primeira versão, tinhamos bases demais e não conseguimos dimencionar o trabalho que seria para modelar e juntar tantas bases diferentes. Algumas bases inclusive, não seriam tão uteis para as análises que gostariamos de fazer. Depois de algumas conversas, resolvemos diminuir o numero de bases (deixando apenas duas) e fazer uma remodelagem no nosso modelo conceitual, deixando ele um pouco mais simples, mas o suficiente para as análises que gostariamos de fazer. 
@@ -89,25 +102,25 @@ Uma das bases que retiramos foi uma base que tinha pesquisas sobre o consumo de 
 
 Um outro problema que tivemos foi a extração de dados, como foi explicado já acima, foi um processo trabalhoso, que exigiu certo tempo nosso para pensar nas maneiras mais eficientes de se juntar essas duas bases.
 
+<br>
+
 ## Perguntas de Pesquisa/Análise Combinadas e Respectivas Análises
 
 ### Perguntas/Análise com Resposta Implementada
 
 ### Pergunta/Análise 1
-Quais os ingredientes que compõe determinadas receitas?
-- Mapear o relacionamento entre receitas e ingredientes
+* Quais os ingredientes que compõe determinadas receitas?
   
 ### Pergunta/Análise 2
-Quais os ingredientes mais consumidos? E em cada região?
-- A partir das receitas identificar os ingredientes mais típicos de cada país e de maneira geral
+* Quais os ingredientes mais consumidos? E em cada região?
   
 ### Pergunta/Análise 3
-Quais os nutrientes mais consumidos em cada região?
-- A ideia aqui é fazer uma relação entre as receitas de cada país e os nutrientes que mais aparecem nessas receitas, entendendo um pouco do perfil nutricional de cada pais
+* Quais os nutrientes mais consumidos em cada região?
 
 ### Pergunta/Análise 4
-Dado as receitas de determinada categoria, quais são os componentes (químico) que menos aparecem? E quais são os que mais aparecem? 
-- Aqui conseguimos ver componentes quimicos que são importantes para o ser humano (ou que podem ser prejudiciais) e verificar o quanto eles aparecem nas receitas de uma categoria específica. Podendo até mesmo tentar relacionar com a região da receita.
+* Dado as receitas de determinada categoria, quais são os componentes (químico) que menos aparecem? E quais são os que mais aparecem? 
+
+<br>
 
 ### Perguntas/Análise Propostas mas Não Implementadas
 
