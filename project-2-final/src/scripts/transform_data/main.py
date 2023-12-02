@@ -101,7 +101,7 @@ def escrever_csv_comb(list, nome_arquivo):
     escritor_csv.writerow(['id_themeal', 'id_foodb', 'public_id_food'])
 
     for item in list:
-        escritor_csv.writerow([item['id_ingredient'], item['id_food'], item['public_id_food']])
+        escritor_csv.writerow([item['id_ingredient'], item['id_food'], item['public_id_food'], item['name']])
 
 def escrever_csv_processed(list, nome_arquivo):
   with open(nome_arquivo, 'w', newline='', encoding='utf-8') as arquivo_csv:
@@ -180,10 +180,10 @@ def encontrar_combinacoes(lista_ingredientes, lista_foods, groups):
             food_minin = food
       
       if food_minin == None: 
-        combinacoes.append({'id_ingredient': ingrediente.id_ingredient, 'id_food': '', 'public_id_food': ''})
+        combinacoes.append({'id_ingredient': ingrediente.id_ingredient, 'id_food': '', 'public_id_food': '', 'name': ingrediente.str_ingredient })
         continue
       
-      combinacoes.append({'id_ingredient': ingrediente.id_ingredient, 'id_food': food_minin.id, 'public_id_food': food_minin.public_id})
+      combinacoes.append({'id_ingredient': ingrediente.id_ingredient, 'id_food': food_minin.id, 'public_id_food': food_minin.public_id, 'name': ingrediente.str_ingredient})
       processedIngredients.append(ProcessedIngredient(food_minin, ingrediente, groups))
 
     print('Calculo finalizado')
