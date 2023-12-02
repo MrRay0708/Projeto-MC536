@@ -37,9 +37,12 @@ class MealFoodRelation:
     
 
 class NutrientIngredient:
-  def __init__(self, id_nutrient, id_ingredient):
+  def __init__(self, id_nutrient, id_ingredient, nutrient: FoodData):
     self.nutrient_id = id_nutrient
     self.ingredient_id = id_ingredient
+    self.max = nutrient.orig_max
+    self.min = nutrient.orig_min
+    self.value = nutrient.orig_content
     
 
 def ler_csv(nome_arquivo, from_class, isRelathion = False):
@@ -75,7 +78,7 @@ def format_food_nutrient(contents, relathions):
   for content in contents:
     if content.source_type == "Nutrient" and content.food_id in relathions:
       for id in relathions[content.food_id]:
-        p_nutrient_food.append(NutrientIngredient(content.source_id, id))
+        p_nutrient_food.append(NutrientIngredient(content.source_id, id, content))
   
   return p_nutrient_food
 
@@ -85,10 +88,10 @@ def escrever_csv_ingredients_nutrients(list, nome_arquivo):
     
     escritor_csv = csv.writer(arquivo_csv)
 
-    escritor_csv.writerow(['id_ingredient', 'id_nutrient'])
+    escritor_csv.writerow(['id_ingredient', 'id_nutrient','value', 'min', 'max'])
 
     for item in list:
-        escritor_csv.writerow([item.ingredient_id , item.nutrient_id])
+        escritor_csv.writerow([item.ingredient_id , item.nutrient_id, item.value, item.min, item.max])
         
   print("Processo Finalizado.")
 
