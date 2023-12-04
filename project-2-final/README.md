@@ -12,7 +12,7 @@ Sabemos que cada região do mundo tem a sua cultura, sua história, suas visões
 [link](https://github.com/MrRay0708/Projeto-MC536/blob/main/project-2-final/slides/Apresenta%C3%A7%C3%A3oPrevia.pdf)
 
 ### Apresentação Final
-> Coloque aqui o link para o PDF da apresentação final
+(https://github.com/MrRay0708/Projeto-MC536/blob/main/project-2-final/slides/DB-Projeto-2-Final.pdf)
 
 <br>
 
